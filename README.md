@@ -1,4 +1,4 @@
-# Simple Algorithms and Data Structures
+# Analysis_And_Databases
 
 
 ## Table of contents
@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
-This repository contains algorithms written by me in my second year of studies as part of the Algrits and Data Structures course.
+This repository contains tasks done by me in my third year of studies as part of the Analysis_And_Databases course.
 
 ## Technologies
 Project is created mainly with:

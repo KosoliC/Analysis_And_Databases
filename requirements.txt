@@ -1,0 +1,6 @@
+numpy==1.22.0
+pandas==1.0.4
+scipy==1.2.3
+math==3.11.1
+typing==3.10
+functools==3.2

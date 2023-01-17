@@ -1,0 +1,9 @@
+Oryginalne dane można znaleźć w lokalizacji /OriginalData/original_tb.csv
+które zostały pobrnae z repozytorium z instrukcjami do zadania.
+
+Zmienne odczytane z podanego Dataframe:
+year - informacja o roku wykanania badań
+iso2 - informacja o kraju z którego pochodzą badania na podstawie kodu ISO 3166-1 alpha-2 standard
+new_sp_m04 - informacja że badany pacjent z wykrytą chorobą to mężczyzna w danej grupie wiekowej
+new_sp_f04 - informacja że badany pacjent z wykrytą chorobą to kobieta w danej grupie wiekowej
+new_sp_fu - informacja że badany pacjent z wykrytą chorobą to kobieta o nieznanym wieku

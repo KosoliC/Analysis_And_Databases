@@ -1,0 +1,480 @@
+Dni od zakupu,Marka,Wiek kupującego,Płeć kupującego,Ocena
+11,Dyson,54,Kobieta,5.0
+8,Tefal,48,Brak danych o płci,2.5
+8,Samsung,66,Mężczyzna,1.0
+8,Samsung,43,Brak danych o płci,2.5
+3,Samsung,24,Brak danych o płci,1.5
+5,Samsung,26,Kobieta,5.0
+5,Samsung,20,Brak danych o płci,3.0
+9,Tefal,62,Mężczyzna,4.5
+7,Electrolux,34,Kobieta,1.5
+5,Dyson,47,Brak danych o płci,3.0
+7,Electrolux,42,Kobieta,4.0
+10,Dyson,47,Brak danych o płci,2.5
+5,Samsung,36,Brak danych o płci,3.5
+3,Samsung,49,Brak danych o płci,3.5
+8,Beko,34,Brak danych o płci,1.5
+9,Samsung,44,Brak danych o płci,2.5
+6,Samsung,51,Brak danych o płci,2.5
+9,Samsung,38,Kobieta,2.5
+4,Beko,,Kobieta,2.5
+7,Tefal,52,Kobieta,1.5
+9,Samsung,36,Kobieta,3.0
+10,Samsung,66,Brak danych o płci,2.0
+6,Samsung,41,Kobieta,3.0
+4,Samsung,26,Kobieta,2.0
+9,Tefal,,Brak danych o płci,3.0
+4,Samsung,35,Brak danych o płci,2.5
+17,Samsung,48,Brak danych o płci,0.0
+8,Samsung,45,Kobieta,4.0
+7,Dyson,47,Brak danych o płci,3.0
+7,Tefal,52,Kobieta,5.0
+10,Dyson,56,Brak danych o płci,3.0
+10,Tefal,38,Brak danych o płci,1.5
+10,Samsung,30,Brak danych o płci,3.0
+5,Dyson,37,Mężczyzna,3.5
+11,Dyson,51,Kobieta,0.5
+4,Tefal,36,Brak danych o płci,1.5
+6,Dyson,41,Brak danych o płci,1.0
+6,Electrolux,33,Brak danych o płci,4.0
+9,Dyson,,Brak danych o płci,2.5
+4,Samsung,39,Kobieta,0.0
+5,Samsung,32,Brak danych o płci,2.5
+7,Samsung,57,Kobieta,2.0
+13,Dyson,22,Mężczyzna,2.5
+3,Samsung,37,Brak danych o płci,5.0
+4,Dyson,46,Kobieta,1.0
+7,Samsung,,Kobieta,3.0
+6,Dyson,47,Kobieta,2.0
+7,Samsung,42,Kobieta,3.5
+7,Samsung,54,Kobieta,1.5
+7,Samsung,,Kobieta,0.0
+14,Samsung,35,Mężczyzna,3.5
+4,Electrolux,22,Kobieta,2.0
+8,Tefal,42,Brak danych o płci,2.5
+13,Beko,30,Brak danych o płci,1.5
+10,Tefal,49,Kobieta,3.0
+11,Dyson,50,Kobieta,2.0
+4,Samsung,41,Brak danych o płci,1.0
+9,Dyson,39,Kobieta,3.0
+6,Tefal,65,Mężczyzna,1.5
+7,Dyson,20,Kobieta,2.5
+7,Samsung,51,Brak danych o płci,4.0
+8,Samsung,39,Kobieta,1.0
+3,Samsung,,Brak danych o płci,2.0
+2,Dyson,34,Kobieta,4.0
+6,Samsung,36,Kobieta,0.5
+6,Samsung,35,Brak danych o płci,2.5
+7,Samsung,33,Brak danych o płci,2.5
+16,Samsung,45,Brak danych o płci,1.5
+3,Dyson,40,Kobieta,1.5
+2,Tefal,44,Kobieta,2.0
+8,Samsung,32,Brak danych o płci,2.0
+11,Beko,42,Kobieta,3.5
+6,Beko,,Brak danych o płci,2.0
+5,Beko,33,Brak danych o płci,2.0
+9,Tefal,54,Brak danych o płci,1.0
+7,Samsung,53,Brak danych o płci,3.0
+9,Samsung,40,Kobieta,1.5
+8,Samsung,59,Brak danych o płci,4.0
+6,Tefal,31,Mężczyzna,2.5
+6,Tefal,49,Mężczyzna,2.5
+2,Samsung,35,Brak danych o płci,1.0
+8,Samsung,32,Kobieta,1.0
+7,Dyson,31,Brak danych o płci,1.5
+7,Samsung,37,Kobieta,1.0
+7,Dyson,50,Brak danych o płci,2.5
+6,Samsung,41,Brak danych o płci,2.0
+6,Samsung,23,Kobieta,3.0
+2,Samsung,21,Brak danych o płci,2.0
+6,Samsung,57,Brak danych o płci,2.0
+6,Beko,30,Brak danych o płci,2.0
+9,Beko,41,Brak danych o płci,3.5
+10,Tefal,31,Mężczyzna,1.5
+8,Samsung,35,Mężczyzna,2.0
+5,Samsung,26,Brak danych o płci,1.5
+9,Tefal,63,Kobieta,3.5
+9,Samsung,45,Kobieta,3.0
+6,Dyson,34,Kobieta,1.0
+7,Tefal,,Kobieta,0.0
+9,Samsung,,Kobieta,2.0
+6,Beko,31,Kobieta,2.0
+5,Tefal,33,Brak danych o płci,2.5
+12,Tefal,48,Brak danych o płci,2.5
+11,Samsung,36,Brak danych o płci,0.0
+5,Tefal,,Kobieta,1.0
+8,Samsung,40,Kobieta,2.5
+7,Samsung,48,Mężczyzna,3.0
+12,Samsung,29,Mężczyzna,2.0
+7,Samsung,40,Brak danych o płci,1.0
+9,Dyson,,Brak danych o płci,2.5
+6,Dyson,33,Brak danych o płci,1.0
+8,Samsung,44,Brak danych o płci,3.5
+8,Samsung,,Kobieta,2.5
+4,Samsung,36,Kobieta,1.0
+9,Tefal,24,Kobieta,4.5
+9,Beko,48,Brak danych o płci,2.0
+5,Dyson,39,Kobieta,0.5
+5,Samsung,27,Brak danych o płci,2.0
+4,Dyson,29,Kobieta,1.0
+10,Tefal,,Brak danych o płci,0.5
+6,Samsung,47,Kobieta,3.0
+5,Dyson,31,Kobieta,2.0
+3,Tefal,49,Brak danych o płci,3.5
+11,Tefal,44,Kobieta,2.5
+4,Samsung,28,Kobieta,2.5
+9,Samsung,,Brak danych o płci,2.5
+6,Samsung,33,Kobieta,3.5
+6,Beko,23,Kobieta,2.5
+4,Samsung,52,Brak danych o płci,2.0
+7,Samsung,37,Kobieta,1.0
+4,Samsung,47,Brak danych o płci,2.5
+4,Samsung,28,Kobieta,3.0
+5,Samsung,28,Brak danych o płci,5.0
+4,Samsung,60,Kobieta,2.0
+8,Samsung,43,Kobieta,0.5
+7,Samsung,26,Kobieta,2.0
+7,Samsung,31,Brak danych o płci,1.5
+9,Tefal,57,Kobieta,1.5
+9,Samsung,54,Kobieta,3.5
+9,Samsung,37,Kobieta,2.5
+6,Samsung,30,Kobieta,0.5
+6,Dyson,45,Kobieta,5.0
+3,Samsung,42,Kobieta,1.0
+8,Tefal,39,Brak danych o płci,4.0
+2,Tefal,25,Brak danych o płci,2.5
+13,Beko,51,Brak danych o płci,2.5
+12,Samsung,37,Brak danych o płci,2.0
+4,Dyson,39,Brak danych o płci,3.0
+7,Tefal,61,Brak danych o płci,2.5
+9,Tefal,25,Brak danych o płci,3.5
+5,Dyson,30,Kobieta,4.5
+9,Tefal,35,Brak danych o płci,2.0
+2,Dyson,43,Kobieta,3.0
+9,Dyson,22,Brak danych o płci,2.5
+9,Tefal,42,Kobieta,2.5
+7,Samsung,28,Kobieta,2.5
+7,Samsung,20,Mężczyzna,3.0
+5,Tefal,,Kobieta,5.0
+5,Tefal,25,Brak danych o płci,3.5
+9,Samsung,26,Kobieta,2.5
+6,Tefal,33,Mężczyzna,3.0
+7,Samsung,36,Kobieta,1.0
+5,Samsung,48,Brak danych o płci,0.0
+4,Electrolux,,Brak danych o płci,1.5
+6,Dyson,36,Mężczyzna,2.5
+5,Dyson,25,Kobieta,4.5
+11,Tefal,41,Kobieta,5.0
+5,Samsung,,Mężczyzna,4.0
+9,Dyson,48,Kobieta,2.5
+5,Samsung,57,Mężczyzna,2.0
+5,Samsung,43,Brak danych o płci,1.5
+4,Dyson,57,Kobieta,2.5
+7,Beko,,Mężczyzna,1.0
+7,Samsung,48,Brak danych o płci,2.5
+4,Electrolux,28,Brak danych o płci,1.5
+7,Samsung,36,Kobieta,1.5
+6,Tefal,40,Kobieta,3.5
+8,Samsung,34,Kobieta,2.5
+7,Samsung,41,Mężczyzna,3.0
+7,Samsung,44,Brak danych o płci,1.0
+7,Samsung,32,Brak danych o płci,3.0
+6,Samsung,35,Mężczyzna,3.0
+10,Samsung,,Kobieta,0.0
+9,Samsung,37,Mężczyzna,2.0
+4,Samsung,45,Brak danych o płci,3.0
+6,Samsung,48,Brak danych o płci,3.0
+7,Dyson,36,Kobieta,2.5
+9,Samsung,25,Brak danych o płci,1.5
+8,Samsung,39,Kobieta,2.5
+7,Beko,30,Kobieta,1.5
+5,Electrolux,,Brak danych o płci,2.0
+10,Samsung,44,Brak danych o płci,2.5
+9,Tefal,50,Mężczyzna,1.5
+7,Electrolux,,Kobieta,5.0
+8,Samsung,42,Kobieta,2.5
+4,Samsung,52,Kobieta,2.5
+9,Samsung,56,Brak danych o płci,3.0
+9,Samsung,34,Kobieta,5.0
+9,Tefal,39,Brak danych o płci,4.0
+5,Samsung,34,Brak danych o płci,3.5
+11,Samsung,40,Kobieta,2.5
+7,Beko,27,Kobieta,1.0
+10,Samsung,39,Mężczyzna,3.5
+7,Tefal,44,Kobieta,3.5
+4,Dyson,,Kobieta,2.0
+10,Tefal,55,Brak danych o płci,2.5
+8,Beko,48,Brak danych o płci,3.5
+11,Samsung,,Mężczyzna,2.5
+6,Samsung,37,Mężczyzna,2.5
+10,Dyson,,Kobieta,3.0
+13,Tefal,42,Kobieta,1.5
+9,Samsung,44,Kobieta,2.0
+2,Samsung,,Kobieta,3.0
+2,Samsung,54,Brak danych o płci,2.5
+8,Samsung,30,Brak danych o płci,1.0
+3,Samsung,40,Brak danych o płci,5.0
+11,Tefal,49,Kobieta,4.5
+9,Beko,36,Mężczyzna,1.5
+9,Tefal,48,Brak danych o płci,0.5
+10,Samsung,,Brak danych o płci,3.0
+8,Samsung,38,Brak danych o płci,2.0
+7,Dyson,46,Kobieta,4.0
+10,Samsung,37,Kobieta,3.0
+5,Tefal,44,Mężczyzna,1.0
+10,Dyson,,Kobieta,1.0
+9,Samsung,34,Kobieta,1.5
+7,Tefal,,Brak danych o płci,1.5
+8,Dyson,43,Kobieta,3.5
+3,Tefal,46,Kobieta,2.5
+5,Tefal,38,Mężczyzna,1.5
+7,Samsung,23,Kobieta,2.5
+7,Tefal,,Kobieta,1.0
+7,Tefal,44,Kobieta,2.0
+7,Samsung,42,Mężczyzna,2.0
+7,Samsung,37,Kobieta,4.0
+7,Beko,52,Kobieta,3.0
+5,Dyson,45,Kobieta,2.5
+5,Samsung,39,Kobieta,3.5
+9,Samsung,,Kobieta,3.0
+9,Dyson,42,Kobieta,3.0
+5,Samsung,,Kobieta,1.5
+12,Samsung,47,Kobieta,2.5
+3,Samsung,40,Brak danych o płci,0.5
+10,Samsung,40,Kobieta,4.0
+7,Beko,36,Mężczyzna,3.5
+12,Samsung,56,Kobieta,5.0
+6,Tefal,31,Kobieta,3.0
+5,Electrolux,37,Kobieta,1.0
+5,Samsung,47,Brak danych o płci,1.5
+3,Dyson,33,Mężczyzna,2.5
+10,Dyson,33,Mężczyzna,2.0
+11,Samsung,47,Kobieta,2.5
+7,Dyson,33,Brak danych o płci,5.0
+2,Samsung,32,Brak danych o płci,0.5
+11,Tefal,49,Brak danych o płci,2.0
+8,Samsung,48,Kobieta,2.5
+7,Samsung,59,Kobieta,2.5
+10,Dyson,41,Kobieta,3.0
+15,Dyson,60,Mężczyzna,1.0
+5,Beko,39,Mężczyzna,2.0
+6,Electrolux,46,Kobieta,4.5
+3,Tefal,57,Brak danych o płci,3.5
+14,Electrolux,36,Kobieta,4.0
+8,Dyson,31,Kobieta,1.0
+6,Tefal,40,Kobieta,1.5
+4,Samsung,46,Brak danych o płci,2.5
+9,Samsung,45,Kobieta,4.0
+14,Electrolux,,Kobieta,2.0
+10,Dyson,45,Brak danych o płci,3.5
+9,Beko,39,Mężczyzna,3.0
+9,Beko,50,Mężczyzna,1.5
+8,Dyson,35,Mężczyzna,4.0
+7,Samsung,42,Kobieta,4.0
+9,Beko,38,Kobieta,1.5
+9,Samsung,42,Brak danych o płci,4.5
+12,Tefal,34,Brak danych o płci,4.0
+7,Tefal,36,Brak danych o płci,1.5
+8,Samsung,52,Kobieta,2.0
+6,Samsung,44,Brak danych o płci,4.0
+7,Samsung,27,Kobieta,3.5
+10,Samsung,38,Brak danych o płci,2.5
+8,Electrolux,39,Brak danych o płci,2.0
+5,Tefal,39,Brak danych o płci,1.0
+3,Tefal,45,Kobieta,1.0
+9,Samsung,38,Brak danych o płci,3.0
+9,Dyson,58,Mężczyzna,2.5
+8,Samsung,48,Kobieta,2.0
+5,Beko,47,Mężczyzna,1.0
+4,Tefal,33,Mężczyzna,3.0
+14,Tefal,39,Mężczyzna,2.0
+9,Samsung,44,Kobieta,2.5
+6,Tefal,46,Kobieta,2.0
+6,Beko,34,Kobieta,0.5
+6,Tefal,22,Brak danych o płci,4.0
+8,Tefal,54,Kobieta,1.5
+8,Beko,34,Kobieta,2.5
+7,Dyson,32,Mężczyzna,3.5
+4,Samsung,43,Mężczyzna,2.0
+8,Dyson,51,Brak danych o płci,2.5
+13,Samsung,35,Kobieta,3.0
+6,Samsung,,Kobieta,1.0
+10,Dyson,44,Kobieta,0.5
+14,Tefal,58,Brak danych o płci,3.5
+9,Samsung,46,Kobieta,2.5
+6,Samsung,,Kobieta,3.0
+12,Tefal,34,Kobieta,2.0
+4,Tefal,49,Brak danych o płci,1.5
+7,Dyson,,Mężczyzna,1.5
+6,Samsung,41,Kobieta,2.0
+8,Samsung,22,Brak danych o płci,2.0
+7,Samsung,21,Kobieta,1.5
+7,Beko,48,Kobieta,2.5
+14,Samsung,35,Kobieta,2.0
+6,Samsung,27,Brak danych o płci,2.0
+9,Beko,54,Brak danych o płci,4.0
+5,Tefal,46,Brak danych o płci,1.5
+6,Electrolux,35,Kobieta,2.5
+8,Dyson,27,Kobieta,3.0
+9,Dyson,,Brak danych o płci,2.0
+4,Samsung,30,Brak danych o płci,3.0
+7,Samsung,47,Kobieta,1.0
+10,Samsung,29,Kobieta,2.5
+7,Beko,51,Brak danych o płci,5.0
+7,Tefal,,Brak danych o płci,1.5
+7,Samsung,71,Brak danych o płci,4.5
+1,Beko,34,Kobieta,3.5
+8,Dyson,,Kobieta,3.0
+3,Samsung,43,Mężczyzna,1.5
+5,Samsung,51,Mężczyzna,0.5
+10,Samsung,23,Kobieta,2.5
+6,Samsung,34,Kobieta,4.0
+8,Dyson,39,Brak danych o płci,2.5
+10,Samsung,35,Brak danych o płci,5.0
+6,Tefal,27,Brak danych o płci,3.0
+5,Samsung,29,Brak danych o płci,2.5
+6,Tefal,46,Kobieta,3.0
+7,Electrolux,77,Kobieta,1.0
+7,Dyson,48,Brak danych o płci,1.0
+6,Samsung,50,Kobieta,3.0
+4,Dyson,54,Brak danych o płci,2.0
+9,Dyson,28,Kobieta,4.5
+2,Samsung,31,Kobieta,1.0
+8,Tefal,,Brak danych o płci,1.5
+11,Dyson,39,Brak danych o płci,2.5
+7,Samsung,27,Mężczyzna,1.0
+4,Dyson,,Kobieta,4.0
+6,Tefal,,Kobieta,3.0
+8,Dyson,,Kobieta,3.0
+1,Samsung,53,Mężczyzna,2.5
+6,Beko,,Brak danych o płci,3.5
+4,Samsung,27,Kobieta,1.0
+9,Samsung,,Brak danych o płci,4.5
+3,Beko,40,Brak danych o płci,1.5
+5,Beko,40,Mężczyzna,3.5
+8,Tefal,27,Kobieta,3.0
+7,Dyson,,Brak danych o płci,3.5
+8,Tefal,,Kobieta,3.0
+2,Samsung,49,Brak danych o płci,3.0
+6,Electrolux,36,Kobieta,2.0
+3,Samsung,36,Kobieta,3.0
+6,Samsung,49,Kobieta,2.5
+9,Samsung,36,Mężczyzna,2.5
+14,Samsung,49,Brak danych o płci,3.0
+12,Samsung,62,Brak danych o płci,2.0
+10,Samsung,60,Kobieta,0.0
+9,Samsung,43,Mężczyzna,2.0
+7,Dyson,26,Kobieta,1.5
+5,Beko,32,Kobieta,4.0
+8,Samsung,45,Brak danych o płci,2.0
+6,Samsung,23,Kobieta,2.0
+12,Dyson,38,Kobieta,4.0
+10,Dyson,38,Kobieta,1.0
+10,Tefal,49,Kobieta,4.0
+3,Dyson,31,Brak danych o płci,3.0
+1,Samsung,51,Brak danych o płci,2.0
+9,Samsung,50,Kobieta,3.0
+9,Dyson,38,Kobieta,3.5
+9,Beko,56,Kobieta,4.5
+10,Samsung,64,Brak danych o płci,1.5
+6,Samsung,43,Kobieta,3.5
+6,Dyson,33,Brak danych o płci,1.5
+9,Tefal,,Brak danych o płci,4.0
+7,Samsung,60,Mężczyzna,3.0
+11,Tefal,40,Kobieta,2.5
+11,Samsung,31,Kobieta,1.5
+7,Tefal,27,Kobieta,2.0
+3,Dyson,53,Brak danych o płci,3.5
+7,Samsung,,Brak danych o płci,1.5
+8,Dyson,47,Brak danych o płci,2.0
+3,Samsung,47,Kobieta,1.5
+6,Tefal,47,Brak danych o płci,4.5
+6,Samsung,,Kobieta,2.0
+7,Beko,26,Kobieta,2.0
+9,Samsung,46,Kobieta,2.0
+8,Samsung,30,Kobieta,2.5
+5,Samsung,46,Brak danych o płci,2.0
+5,Dyson,24,Brak danych o płci,4.0
+3,Samsung,37,Mężczyzna,4.0
+7,Tefal,34,Kobieta,2.5
+7,Samsung,31,Brak danych o płci,1.5
+7,Samsung,40,Brak danych o płci,3.0
+6,Samsung,46,Brak danych o płci,2.0
+9,Tefal,33,Brak danych o płci,4.0
+3,Samsung,,Brak danych o płci,2.0
+3,Dyson,,Kobieta,2.5
+7,Tefal,42,Kobieta,0.0
+11,Samsung,60,Kobieta,3.0
+11,Tefal,28,Brak danych o płci,3.0
+6,Electrolux,22,Brak danych o płci,1.5
+13,Tefal,30,Brak danych o płci,4.5
+3,Samsung,33,Brak danych o płci,3.5
+11,Beko,49,Brak danych o płci,2.5
+7,Dyson,43,Kobieta,2.5
+8,Samsung,46,Mężczyzna,2.5
+7,Tefal,41,Kobieta,4.5
+5,Samsung,,Kobieta,3.5
+9,Dyson,41,Kobieta,2.5
+5,Electrolux,32,Kobieta,2.5
+7,Samsung,33,Kobieta,0.5
+9,Samsung,46,Brak danych o płci,3.5
+8,Tefal,43,Mężczyzna,2.5
+1,Samsung,34,Kobieta,4.5
+11,Samsung,31,Kobieta,1.5
+9,Tefal,38,Mężczyzna,5.0
+7,Samsung,54,Kobieta,4.0
+7,Dyson,45,Mężczyzna,1.0
+7,Tefal,53,Brak danych o płci,2.0
+6,Tefal,41,Kobieta,2.5
+10,Tefal,,Brak danych o płci,3.0
+5,Samsung,40,Brak danych o płci,3.5
+7,Dyson,33,Brak danych o płci,2.5
+4,Samsung,31,Brak danych o płci,2.5
+5,Dyson,42,Brak danych o płci,4.5
+6,Electrolux,32,Kobieta,3.0
+4,Beko,42,Brak danych o płci,1.5
+5,Beko,44,Brak danych o płci,2.5
+3,Dyson,42,Brak danych o płci,2.5
+6,Samsung,23,Brak danych o płci,2.0
+8,Samsung,39,Kobieta,2.0
+3,Dyson,42,Brak danych o płci,2.0
+7,Electrolux,,Brak danych o płci,3.0
+4,Dyson,,Brak danych o płci,1.0
+4,Tefal,39,Mężczyzna,3.0
+7,Samsung,44,Kobieta,2.5
+7,Electrolux,53,Mężczyzna,1.0
+8,Samsung,47,Brak danych o płci,2.0
+4,Samsung,54,Mężczyzna,2.0
+4,Samsung,48,Kobieta,1.0
+1,Dyson,27,Brak danych o płci,2.5
+6,Dyson,44,Mężczyzna,3.0
+8,Samsung,37,Kobieta,3.5
+4,Samsung,,Kobieta,2.5
+6,Electrolux,41,Mężczyzna,4.0
+6,Tefal,28,Mężczyzna,1.5
+3,Beko,,Kobieta,2.0
+11,Tefal,46,Kobieta,4.5
+10,Samsung,39,Brak danych o płci,2.0
+7,Tefal,33,Brak danych o płci,1.0
+12,Tefal,,Kobieta,1.5
+6,Samsung,28,Brak danych o płci,2.0
+6,Samsung,35,Brak danych o płci,2.0
+5,Dyson,35,Mężczyzna,3.0
+5,Samsung,52,Kobieta,3.5
+7,Samsung,28,Kobieta,2.5
+3,Samsung,27,Brak danych o płci,4.0
+8,Samsung,57,Mężczyzna,5.0
+12,Electrolux,35,Brak danych o płci,1.0
+6,Samsung,36,Brak danych o płci,1.0
+7,Samsung,38,Kobieta,3.5
+4,Samsung,36,Kobieta,4.5
+10,Tefal,55,Kobieta,3.0
+7,Samsung,37,Brak danych o płci,2.0
+9,Tefal,27,Brak danych o płci,1.5
+6,Dyson,40,Brak danych o płci,1.0
+10,Dyson,28,Kobieta,2.5
+6,Dyson,,Kobieta,2.0
+8,Dyson,,Kobieta,1.0
+8,Beko,49,Brak danych o płci,2.0
+15,Dyson,50,Brak danych o płci,3.5
+10,Tefal,,Mężczyzna,0.5
